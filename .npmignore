@@ -1,0 +1,13 @@
+tests/
+dist/pre
+src/
+.github/
+.vscode/
+.eslintrc.json
+.eslintignore
+.gitignore
+.prettierrc.json
+output.log
+package-lock.json
+tsconfig.json
+tsconfig.tsbuildinfo

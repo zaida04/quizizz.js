@@ -1,0 +1,6 @@
+node_modules
+dist/
+*.tsbuildinfo
+testcredentials.json
+*.log
+.npmrc

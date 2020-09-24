@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "lib": ["ES6", "ES5", "DOM"],      
+    "outDir": "./dist",
+    "rootDir": "./src",                     
+    "declaration": true,                  
+    "declarationMap": true,               
+    "composite": true,
+    "strict": true,
+    "alwaysStrict": true,                           
+    "noUnusedParameters": true,            
+    "noImplicitReturns": true,             
+    "noFallthroughCasesInSwitch": true,    
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+  },
+  "exclude": ["tests/**", "node_modules/**", "dist/**", "docs/**", "release.config.js"]
+}
