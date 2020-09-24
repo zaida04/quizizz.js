@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/zaida04/Quizizz.js/compare/v1.0.1...v1.0.2) (2020-09-24)
+
+
+### Bug Fixes
+
+* **semantic:** Actually build the package ([24febf6](https://github.com/zaida04/Quizizz.js/commit/24febf6303b3f02568603d76a8df3550824a7a26))
+
 ## [1.0.1](https://github.com/zaida04/Quizizz.js/compare/v1.0.0...v1.0.1) (2020-09-24)
 
 
