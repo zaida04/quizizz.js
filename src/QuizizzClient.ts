@@ -28,7 +28,7 @@ export default class QuizizzClient {
         const APIResponse: Response = await RestManager.GET(route);
 
         if (!APIResponse.response || !APIResponse.response.data || APIResponse.status !== 200)
-            throw new RequestError({ msg: APIResponse.response.message, errCode: APIResponse.status, route: route });
+            throw new RequestError({ msg: APIResponse.response?.message, errCode: APIResponse.status, route: route });
 
         return new Quiz(APIResponse.response.data);
     }
