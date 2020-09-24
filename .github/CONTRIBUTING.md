@@ -1,5 +1,5 @@
 # Contributing
-The issue tracker is only for bug reports and enhancement suggestions. If you have a question, please ask away!
+The issue tracker for bug reports and enhancement suggestions. If you have a question, please ask away!
 
 If you wish to contribute to the codebase or documentation, feel free to fork the repository and submit a pull request. We use ESLint to enforce a consistent coding style, so having that set up in your editor of choice is a great boon to your development process.
 
