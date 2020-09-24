@@ -1,5 +1,4 @@
 tests/
-dist/pre
 src/
 .github/
 .vscode/
