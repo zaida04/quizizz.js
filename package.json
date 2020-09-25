@@ -53,12 +53,12 @@
     "prettier": "^2.0.5",
     "semantic-release": "^17.1.1",
     "ts-mocha": "^7.0.0",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.7",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0"
   },
   "dependencies": {
     "@discordjs/collection": "^0.1.6",
-    "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/git": "^9.0.0",
     "node-fetch": "^2.6.1"
   }
 }
