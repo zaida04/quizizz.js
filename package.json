@@ -1,6 +1,6 @@
 {
   "name": "quizizz.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "API Wrapper for quizizz",
   "main": "dist/index.js",
   "keywords": [

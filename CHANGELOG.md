@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/zaida04/Quizizz.js/compare/v1.0.2...v1.0.3) (2020-09-25)
+
+
+### Bug Fixes
+
+* **package.json:** Move some dependencies into devDependencies ([e8c9bb8](https://github.com/zaida04/Quizizz.js/commit/e8c9bb8cf334d373f243e83921e35b44293acd10))
+
 ## [1.0.2](https://github.com/zaida04/Quizizz.js/compare/v1.0.1...v1.0.2) (2020-09-24)
 
 
