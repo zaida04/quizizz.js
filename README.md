@@ -9,7 +9,7 @@
         <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
         <a href="https://github.com/tterb/Hyde/issues"><img src="https://img.shields.io/github/issues-raw/zaida04/quizizz.js.svg?maxAge=25000" alt="Issues"></a>
         <a href=""><img src="https://img.shields.io/github/issues-pr/zaida04/quizizz.js.svg?style=flat" alt="GitHub pull requests"></a>
-        <a href="https://deepscan.io/dashboard#view=project&tid=7103&pid=13963&bid=248819"><img src="https://deepscan.io/api/teams/7103/projects/13963/branches/248819/badge/grade.svg" alt="DeepScan grade"></a><a href="https://npmjs.org/package/quizizz.js"><img src="https://nodei.co/npm/quizizz.js.png" alt="NPM"></a>
+        <a href="https://deepscan.io/dashboard#view=project&tid=7103&pid=13963&bid=248819"><img src="https://deepscan.io/api/teams/7103/projects/13963/branches/248819/badge/grade.svg" alt="DeepScan grade"></a>  <a href="https://npmjs.org/package/quizizz.js"><img src="https://nodei.co/npm/quizizz.js.png" alt="NPM"></a>
     </p>
 </div>
 
