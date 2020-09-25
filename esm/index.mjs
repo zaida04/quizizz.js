@@ -1,3 +1,12 @@
-const {QuizizzClient} = require("../dist/index.js");
+const QuizizzJS = require("../dist/index.js");
 
-export { QuizizzClient };
+export const QuizizzJS;
+
+export const {
+    QuizizzClient,
+    Question,
+    User,
+    Quiz,
+    Structure,
+    RequestError
+} = QuizizzJS

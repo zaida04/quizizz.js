@@ -23,7 +23,7 @@
     "require": "./dist/index.js"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc --project tsconfig.json",
     "test": "npm run build && npm run test",
     "lint": "npx eslint src/ --fix",
     "docs": "typedoc --options typedoc.json"
