@@ -1,7 +1,7 @@
 <div align="center">
     <br />
     <p>
-        <img src="logo.png" align="center" width="546" alt="logo.png" />
+        <img src="https://raw.githubusercontent.com/zaida04/Quizizz.js/master/logo.png" align="center" width="546" alt="logo.png" />
         <p>A minimal dependency <code>Node.js Wrapper</code> for the <code>Quizizz.com</code> Internal API. Written in TypeScript and includes typings.</p>
     </p> 
     <br />
