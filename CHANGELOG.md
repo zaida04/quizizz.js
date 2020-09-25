@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/zaida04/Quizizz.js/compare/v1.0.3...v1.0.4) (2020-09-25)
+
+
+### Bug Fixes
+
+* ESM export and export all related structures ([03eb456](https://github.com/zaida04/Quizizz.js/commit/03eb4565a6b641f8db685333e8e6cd7e1bce016a))
+
 ## [1.0.3](https://github.com/zaida04/Quizizz.js/compare/v1.0.2...v1.0.3) (2020-09-25)
 
 
