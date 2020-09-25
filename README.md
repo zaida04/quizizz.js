@@ -17,7 +17,7 @@
 > ### Quizizz does not provide a public API, this is an internal user API that isn't secured, allowing it to be accessed by anyone. This is an API Wrapper of said API. Use this at your own discretion, we are not responsible for what you do with this data and you are subject to the TOS of Quizizz along with the responsibility of ethically using the data you are receiving. As this is not a public API, some of the typings might be incorrect. If that is the case, please feel free to submit a Pull Request to fix it.
 
 ## Documentation
-You can find the documentation [here](http://quizizz.github.io/)
+You can find the documentation [here](http://quizizz.js.org)
 
 ## Contributing
 We welcome any and all contributions that follow our [contribution guide](https://github.com/zaida04/Quizizz.js/blob/master/.github/CONTRIBUTING.md)
