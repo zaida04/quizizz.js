@@ -1,6 +1,6 @@
 const QuizizzJS = require("../dist/index.js");
 
-export const QuizizzJS;
+export default QuizizzJS;
 
 export const {
     QuizizzClient,
