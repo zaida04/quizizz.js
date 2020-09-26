@@ -25,6 +25,8 @@ You can find the documentation [here](http://quizizz.js.org)
 We welcome any and all contributions that follow our [contribution guide](https://github.com/zaida04/Quizizz.js/blob/master/.github/CONTRIBUTING.md)
 
 ### LICENSING
+Created ~9/20/2020
+
 **Quizizz.js** © [zaida04](https://github.com/zaida04), Released under the [MIT](https://github.com/zaida04/Quizizz.js/blob/master/LICENSE) License.  
 Authored and maintained by zaida04.
 
