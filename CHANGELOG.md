@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/zaida04/Quizizz.js/compare/v1.0.4...v1.0.5) (2020-09-26)
+
+
+### Bug Fixes
+
+* **index.mjs:** ESM Module Fix ([58a0855](https://github.com/zaida04/Quizizz.js/commit/58a0855b12dc7094b28c6020e1be79fb16a97f79))
+
 ## [1.0.4](https://github.com/zaida04/Quizizz.js/compare/v1.0.3...v1.0.4) (2020-09-25)
 
 
