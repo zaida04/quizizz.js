@@ -24,7 +24,7 @@
     const client = new QAPI.QuizizzClient();
 
     (async () => {
-        const Quiz = client.fetchQuiz("quizID");
+        const Quiz = await client.fetchQuiz("quizID");
         console.log(Quiz);
     })();
 
