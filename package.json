@@ -26,7 +26,6 @@
   "scripts": {
     "build": "tsc --project tsconfig.json",
     "test": "npm run build && node tests/index.js",
-    "webpack": "webpack --config webpack.config.js",
     "lint": "npx eslint src/ --fix",
     "docs": "typedoc --options typedoc.json"
   },
