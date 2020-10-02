@@ -15,6 +15,7 @@
     "LICENSE",
     ".npmignore",
     "dist/",
+    "webpack",
     "esm/"
   ],
   "typings": "dist/index.d.ts",
@@ -25,6 +26,7 @@
   "scripts": {
     "build": "tsc --project tsconfig.json",
     "test": "npm run build && npm run test",
+    "webpack": "webpack --config webpack.config.js",
     "lint": "npx eslint src/ --fix",
     "docs": "typedoc --options typedoc.json"
   },
@@ -39,6 +41,8 @@
   },
   "homepage": "https://github.com/zaida04/Quizizz.js#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
     "@types/chai": "^4.2.12",
     "@types/mocha": "^8.0.3",
     "@types/node": "^14.6.0",
@@ -54,11 +58,12 @@
     "semantic-release": "^17.1.1",
     "ts-mocha": "^7.0.0",
     "typescript": "^3.9.7",
-    "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/git": "^9.0.0"
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "@discordjs/collection": "^0.1.6",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "parcel-bundler": "^1.12.4"
   }
 }
