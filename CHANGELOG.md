@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/zaida04/Quizizz.js/compare/v1.1.0...v1.1.1) (2020-10-02)
+
+
+### Bug Fixes
+
+* **package.json:** fix error in package.json ([04381c3](https://github.com/zaida04/Quizizz.js/commit/04381c36da05c24bc8b75d1eb65c892dbbedfaf8))
+* **package.json:** remove unneccessary deps ([59a4d95](https://github.com/zaida04/Quizizz.js/commit/59a4d95706ab9bc8afd8af0d36c4ab6b82dfccfc))
+
 # [1.1.0](https://github.com/zaida04/Quizizz.js/compare/v1.0.5...v1.1.0) (2020-10-02)
 
 
