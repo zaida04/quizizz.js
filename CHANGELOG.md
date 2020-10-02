@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/zaida04/Quizizz.js/compare/v1.0.5...v1.1.0) (2020-10-02)
+
+
+### Features
+
+* **webpack:** Add webpacked version ([8372d3a](https://github.com/zaida04/Quizizz.js/commit/8372d3aaa69d4a301bba3c86eeb6ab016c08ff32))
+
 ## [1.0.5](https://github.com/zaida04/Quizizz.js/compare/v1.0.4...v1.0.5) (2020-09-26)
 
 
